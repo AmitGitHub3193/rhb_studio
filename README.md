@@ -42,7 +42,8 @@ Make sure you have a browser installed (e.g., Chrome, Firefox, Edge).
 ````
 ````
 ### Home & Gallery
-<img width="1863" height="1013" alt="image (29)" src="https://github.com/user-attachments/assets/96859bf7-b9bb-4cde-be1f-14e887ca480d" />
+![image (2)](https://github.com/user-attachments/assets/f3234724-3f9b-4b1c-94d9-72cc9e2e936f)
+
 
 
 
